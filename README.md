@@ -1,4 +1,3 @@
-# hello-world
-just do it    
+# hello-world   
 
-I am a student just want to learn something about code,hope that I can achieve more achievements from it!
+I am a student just want to learn something about code,hope that I can achieve more achievements from it! 
